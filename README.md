@@ -1,4 +1,8 @@
 ### Hi there 👋
+# My name is Patricia Pallarés González
+### I'm a Frontend Developer from Spain 🇨🇪🇸
+
+### 🔨 What I do
 
 <!--
 **patriciapallares/patriciapallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Test: 
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciapallares&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/user=patriciapallares&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)
