@@ -1,8 +1,11 @@
 ### Hi there 👋
 # My name is Patricia Pallarés González
-### I'm a Frontend Developer from Spain 🇨🇪🇸
+
 
 ### 🔨 What I do
+- ✨ I'm currently reinventing myself
+- 👩‍💻 Student at @Adalab Web Development Bootcamp (Feb-May 2022)
+- 🌱 My goal is to help make the world a better place for everyone 🐰 � 🐷
 
 <!--
 **patriciapallares/patriciapallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### I'm a Frontend Developer from Spain 🇨🇪🇸
 -->
 
 
