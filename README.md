@@ -1,12 +1,12 @@
 
-### Hi there 👋🏻
-# My name is Patricia Pallarés González
+<h2 align="center"> Hi! Patricia typing! 👋🏻 </h2>
+
 ### I'm a Frontend Developer in the making 👩‍💻 
 
 ### 🏗️ What I do
 
 - 💻 Student at [Adalab](https://github.com/Adalab) Web Development Bootcamp (Feb-May 2022)
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript (ES6), ...
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript (ES6), ...
 - 🌟 My goal is to help make the world a better place for everyone 🐰 🦊 🐷
 
 ### 📫 You can find me
