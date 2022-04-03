@@ -1,5 +1,5 @@
 
-<h2 align="center"> Hi! Patricia typing! 👋🏻 </h2>
+<h2 align="center"> Hi! Patricia here! 👋🏻 </h2>
 
 ### I'm a Frontend Developer in the making 👩‍💻 
 
