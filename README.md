@@ -11,7 +11,6 @@
 
 ### 📫 You can find me
 
-- 🐦 [Twitter](https://twitter.com/patripalmares) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/patriciapallaresgonzalez) 
 - 🌍 [Website TBD] 
 
