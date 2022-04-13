@@ -13,7 +13,7 @@
 
 - 🐦 [Twitter](https://twitter.com/patripalmares) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/patriciapallaresgonzalez) 
-- 🌍 [Website TBD](https://) 
+- 🌍 [Website TBD] 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patriciapallares&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
