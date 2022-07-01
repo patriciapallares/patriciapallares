@@ -12,7 +12,7 @@
 ### 📫 You can find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/patriciapallaresgonzalez) 
-- 🌍 [Website TBD] 
+- 🌍 [Website](https://patriciapallares.github.io/web-page/)
 
 <p ><img src=https://www.codewars.com/users/patriciapallares/badges/large alt="codewars" /></p>
 
